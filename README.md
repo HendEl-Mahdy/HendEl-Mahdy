@@ -7,12 +7,12 @@
 📫 You can reach me at: **hendm8042@gmail.com**<br>
 
 ### 👨‍💻 What I’m Focusing On Right Now
-📖 Reading "iOS Unit Testing by Example"_by Jon Reid<br>
+📖 Reading **iOS Unit Testing by Example** by Jon Reid<br>
 🌱 Learning SwiftUI, Combine, Core Animation, Modern Concurrency<br>
 📱 Building small apps<br>
 🧠 Solving LeetCode problems<br>
 
-### 🌐 Socials
+### 🌐 Where to Find Me
 <div align="left">
   <a href="https://leetcode.com/helmahdi182" target="_blank"><img src="https://i.imgur.com/hy3KXQi.png" height="35" width="35" alt="LeetCode"/></a>
   <img width="10" />
