@@ -3,7 +3,7 @@
 ### 💫 About Me
 💡 I'm passionate about creating seamless user experiences and continuously learning the latest iOS technologies<br>
 👨‍💻 All of my projects are available [here](https://github.com/HendEl-Mahdy?tab=repositories)<br>
-📄 Get to know me better by viewing my [CV](https://drive.google.com/file/d/1BlIoXGR5IQmeNFAgVCb4y2ffsMEMu3Ln/view?usp=drive_link)<br>
+📄 Get to know me better by viewing my [CV](https://drive.google.com/file/d/12JO4mGpMRzAEms3syJqqcbBaO0ovbMU2/view?usp=drive_link)<br>
 📫 You can reach me at: **hendm8042@gmail.com**<br>
 
 ### 👨‍💻 What I’m Focusing On Right Now
